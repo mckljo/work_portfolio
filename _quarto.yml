@@ -1,0 +1,29 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Mickle's study portfolio"
+  navbar: 
+    right:
+      - icon: github
+        href: https://github.com/mckljo
+        aria-label: GitHub
+    left:
+      - text: "Home"
+        href: index.qmd
+      - text: "Research areas"
+        href: research_focus.qmd
+      - text: "Portfolio"
+        href: portfolio.qmd
+  
+  page-footer:
+    center:
+      - text: "Built with love and Quarto"
+        href: https://quarto.org
+        
+format:
+  html:
+    theme: cosmo
+    toc: true
+    
