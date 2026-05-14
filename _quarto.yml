@@ -10,7 +10,7 @@ website:
         href: https://github.com/mckljo
         aria-label: GitHub
     left:
-      - text: "Home"
+      - text: "Jimmy stinky"
         href: index.qmd
       - text: "Research areas"
         href: research_focus.qmd
