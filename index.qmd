@@ -5,8 +5,4 @@ format: html
 
 # About me
 
-I am **Mickle**! I am a dedicated and enthusiastic future researcher with a strong background in molecular biology. 
-
-I have a Honours degree in Biomedical science at the *University of Otago*, majoring in the Molecular Basis of Health and Disease, this was my thesis  
-
-My academic journey has equipped me with a solid foundation in biochemistry, pathology, genetics, microbiology, and immunology. I have finished my thesis only Honours in Biomedical Science at the Cancer Genetics Laboratory and I hope to continue further studies in the molecular biology.
+Jimmy stinky 
